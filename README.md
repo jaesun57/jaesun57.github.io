@@ -1,7 +1,7 @@
 # Sunjae Lee
 
 Personal website and academic profile for Sunjae Lee.
-Visit: [https://satelite2517.github.io](https://satelite2517.github.io)
+Visit: [https://satelite2517.github.io](https://jaesun57.github.io/)
 
 
 # License
